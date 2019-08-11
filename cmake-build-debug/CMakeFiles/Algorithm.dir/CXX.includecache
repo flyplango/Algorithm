@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Study/CLionProjects/Algorithm/GoogleKickStar/Round_D_2019_1.cpp
+Round_D_2019_1.h
+E:/Study/CLionProjects/Algorithm/GoogleKickStar/Round_D_2019_1.h
+iostream
+-
+set
+-
+
+E:/Study/CLionProjects/Algorithm/GoogleKickStar/Round_D_2019_1.h
+
